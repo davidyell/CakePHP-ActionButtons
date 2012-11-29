@@ -14,7 +14,7 @@ You'll need to be running [CakePHP](http://www.cakephp.org/) `v2.x`
 **Clone**  
 `git clone git@github.com:davidyell/CakePHP-ActionButtons.git app/Plugin/ActionButtons`  
 
-**Download**
+**Download**  
 Download an archive version from here and unzip into `app/Plugin/ActionButtons`  
 
 ###Include the helper
@@ -23,6 +23,7 @@ In your `app/Config/bootstrap.php` you'll need to load the plugin.  `CakePlugin:
 Next you'll need to add the helper to your helpers array in your controller.  
 `public $helpers = array('ActionButtons.Actions');` 
 
+##Usage  
 Then you can output either buttons or icons depending on which you need.  
 `echo $this->Actions->actionButtons($id);`  
 where `$id` is the id of the item you want buttons for. If you want to use icons call,  
