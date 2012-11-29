@@ -2,7 +2,7 @@
 A plugin to convert the basic boring 'View', 'Edit' and 'Delete' links to something a little nicer and with better usability.  
 
 ## Requirements
-The styles are based on the [Twitter Bootstrap labels](http://twitter.github.com/bootstrap/components.html#labels-badges) so you'll need to include this somewhere on your page, or you can [include the labels `.less` file](https://github.com/twitter/bootstrap/blob/master/less/labels-badges.less).
+The styles are based on the [Twitter Bootstrap buttons](http://twitter.github.com/bootstrap/base-css.html#buttons) so you'll need to include this somewhere on your page, or you can [include the labels `.less` file](https://github.com/twitter/bootstrap/blob/master/less/labels-badges.less).
 
 You'll need to be running [CakePHP](http://www.cakephp.org/) `v2.x`
 
