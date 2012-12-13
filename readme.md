@@ -1,6 +1,8 @@
 #ActionButtons Plugin
 A plugin to convert the basic boring 'View', 'Edit' and 'Delete' links to something a little nicer and with better usability.  
 
+**Please note** that this plugin has now been superceeded by the NiceAdmin plugin. This plugin will no longer be maintained.
+
 ## Requirements
 The styles are based on the [Twitter Bootstrap buttons](http://twitter.github.com/bootstrap/base-css.html#buttons) so you'll need to include this somewhere on your page, or you can [include the labels `.less` file](https://github.com/twitter/bootstrap/blob/master/less/labels-badges.less).
 
